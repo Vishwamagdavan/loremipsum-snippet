@@ -1,0 +1,45 @@
+{
+    "Lorem Ipsum 1 Line":{
+        "prefix":"!insert1",
+        "body":[
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales quam purus, sed consequat nunc pulvinar et"
+        ],
+        "description":"Creates 1 line of Lorem Ipsum Snippets"
+    },
+    "Lorem Ipsum 2 Lines":{
+        "prefix":"!insert2",
+        "body":[
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales quam purus, sed consequat nunc pulvinar et",
+            "Suspendisse pellentesque neque metus.Curabitur suscipit non libero nec consectetur. Cras viverra mollis nibh, nec egestas enim venenatis ullamcorper."
+        ],
+        "description":"Creates 2 lines of Lorem Ipsum Snippets"
+    },
+    "Lorem Ipsum 5 Lines":{
+        "prefix":"!insert5",
+        "body":[
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales quam purus, sed consequat nunc pulvinar et",
+            "Suspendisse pellentesque neque metus.Curabitur suscipit non libero nec consectetur. Cras viverra mollis nibh, nec egestas enim venenatis ullamcorper.",
+            "Integer aliquet ante mauris, vitae congue neque efficitur et. Nullam ut porttitor massa, id tristique tortor. Ut sagittis quam at turpis volutpat sodales. Aliquam dapibus ullamcorper suscipit.",
+            "Aliquam faucibus turpis nunc, vel tristique metus blandit id. Maecenas non hendrerit felis, quis tincidunt quam. Sed sit amet justo nec metus faucibus interdum. In bibendum consequat euismod",
+            "Curabitur id bibendum tortor, suscipit convallis risus. Nam vitae mauris et ligula egestas pretium nec in velit. Morbi id elit vel leo suscipit lacinia eu id libero."
+        ],
+        "description":"Creates 5 lines of Lorem Ipsum Snippets"
+    },
+    "Lorem Ipsum 10 Lines":{
+        "prefix":"!insert10",
+        "body":[
+            "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sodales quam purus, sed consequat nunc pulvinar et",
+            "Suspendisse pellentesque neque metus.Curabitur suscipit non libero nec consectetur. Cras viverra mollis nibh, nec egestas enim venenatis ullamcorper.",
+            "Integer aliquet ante mauris, vitae congue neque efficitur et. Nullam ut porttitor massa, id tristique tortor. Ut sagittis quam at turpis volutpat sodales. Aliquam dapibus ullamcorper suscipit.",
+            "Aliquam faucibus turpis nunc, vel tristique metus blandit id. Maecenas non hendrerit felis, quis tincidunt quam. Sed sit amet justo nec metus faucibus interdum. In bibendum consequat euismod",
+            "Curabitur id bibendum tortor, suscipit convallis risus. Nam vitae mauris et ligula egestas pretium nec in velit. Morbi id elit vel leo suscipit lacinia eu id libero.",
+            "Donec sem eros, rhoncus at consequat et, fringilla ut diam. Proin mollis libero eget sodales sagittis. Curabitur consectetur sapien leo, id dignissim nunc blandit vehicula. Phasellus non dui quis nibh fringilla rhoncus eget ut eros.",
+            "Donec libero arcu, aliquet quis libero et, interdum venenatis felis. Quisque ultrices purus at ante dignissim hendrerit. Quisque eget elit sit amet quam sagittis maximus a et libero.",
+            "Quisque eleifend ut diam quis mattis. Nulla facilisi. Phasellus porta enim vel efficitur mattis. Fusce mattis a massa id iaculis. Integer consequat diam neque, nec interdum eros sollicitudin a. ","Aliquam faucibus turpis nunc, vel tristique metus blandit id. Maecenas non hendrerit felis, quis tincidunt quam. Sed sit amet justo nec metus faucibus interdum. In bibendum consequat euismod",
+            "Cras elit magna, hendrerit quis iaculis sed, condimentum nec ante. Nunc vehicula, quam a sollicitudin vehicula, ex libero vehicula justo, at sagittis nulla quam ut quam.",
+            "In posuere quam sem, at eleifend sapien lobortis vel. Suspendisse lacus odio, volutpat ac dapibus at, tincidunt nec arcu. Pellentesque nulla lectus, accumsan vitae lacus et, semper pulvinar felis."
+        ],
+        "description":"Creates 10 lines of Lorem Ipsum Snippets"
+    }
+
+}

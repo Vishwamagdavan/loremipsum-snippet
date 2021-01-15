@@ -1,0 +1,69 @@
+{
+    "name": "loremgen-snippets",
+    "displayName": "loremgen snippets",
+    "description": "Simple Lorem Ipsum Snippet Generator",
+    "version": "1.0.0",
+    "icon": "icon.png",
+    "publisher": "bishopbi93",
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Vishwamagdavan/loremipsum-snippet"
+    },
+    "bugs": {
+        "url": "https://github.com/Vishwamagdavan/loremipsum-snippet/issues"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "jinja-html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "django-html",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "plaintext",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "json",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "coffeescript",
+                "path": "./snippets/snippets.json"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
